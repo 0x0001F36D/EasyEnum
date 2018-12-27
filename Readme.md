@@ -1,4 +1,6 @@
 # EasyEnum
+[![Build status](https://ci.appveyor.com/api/projects/status/sp9c6k74e8o2tq7g/branch/master?svg=true)](https://ci.appveyor.com/project/0x0001F36D/easyenum/branch/master)
+
 Defines dynamically enum type with string or ValueTuple at runtime.
 
 # How to
